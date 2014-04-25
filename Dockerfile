@@ -1,4 +1,4 @@
-FROM ubuntu:quantal
+FROM ubuntu:trusty
 MAINTAINER luxifer "luxifer666@gmail.com"
 
 RUN apt-get update
